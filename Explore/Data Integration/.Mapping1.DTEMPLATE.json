@@ -16,13 +16,13 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Version 2",
+        "description" : "Version 3",
         "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-12-20T23:44:58.916Z",
+  "updateTime" : "2023-12-20T23:45:28.027Z",
   "objectRefs" : [ ]
 }
