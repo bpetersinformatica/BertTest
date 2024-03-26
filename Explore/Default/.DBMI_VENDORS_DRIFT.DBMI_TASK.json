@@ -13,14 +13,14 @@
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "this is my description",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "dat",
-  "updateTime" : "2024-03-26T17:40:40.889Z",
+  "updateTime" : "2024-03-26T17:41:34.280Z",
   "objectRefs" : [ {
     "id" : "eBc4bzZSuitcS9cDUGfksF",
     "name" : "IICS-BERT",
