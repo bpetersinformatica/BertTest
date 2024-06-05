@@ -4,7 +4,7 @@
       <types1:EntryId>RFiUf2hwq9bdsre-gt-10456456-2024-06-05T04:54:31.696Z::pd.xml</types1:EntryId>
       <types1:Name>proc_hello</types1:Name>
       <types1:MimeType>application/xml+process</types1:MimeType>
-      <types1:Description/>
+      <types1:Description>This is version 2</types1:Description>
       <types1:AppliesTo/>
       <types1:Tags>.anonymous</types1:Tags>
       <types1:VersionLabel>1.0</types1:VersionLabel>
@@ -12,8 +12,12 @@
       <types1:ProcessGroup/>
       <types1:CreatedBy>BertSC</types1:CreatedBy>
       <types1:CreationDate>2024-06-05T04:54:32Z</types1:CreationDate>
-      <types1:ModifiedBy/>
-      <types1:PublicationStatus>unpublished</types1:PublicationStatus>
+      <types1:ModifiedBy>BertSC</types1:ModifiedBy>
+      <types1:ModificationDate>2024-06-05T05:04:53Z</types1:ModificationDate>
+      <types1:PublicationStatus>published</types1:PublicationStatus>
+      <types1:PublishedBy>BertSC</types1:PublishedBy>
+      <types1:PublicationDate>2024-06-05T05:04:57Z</types1:PublicationDate>
+      <types1:PublishedContributionId>project:/spi.proc_hello/proc_hello.pd.xml</types1:PublishedContributionId>
       <types1:Entry>
          <process xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2010/10/avosScreenflow.xsd"
                   xmlns:tfm="http://schemas.active-endpoints.com/appmodules/screenflow/2021/04/taskflowModel.xsd"
@@ -23,7 +27,7 @@
                   overrideAPIName="false">
             <parameterSet xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2021/04/taskflowModel.xsd"/>
             <appliesTo/>
-            <description/>
+            <description>This is version 2</description>
             <tags>.anonymous</tags>
             <generator>Informatica Process Designer 11</generator>
             <input>
@@ -66,5 +70,5 @@
       <types1:GUID>7LenlEhnN9Hk4PUbzOOnu8</types1:GUID>
       <types1:DisplayName>proc_hello</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2024-06-05T05:03:58.703Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2024-06-05T05:05:16.45Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>

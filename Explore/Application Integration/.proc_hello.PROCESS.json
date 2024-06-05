@@ -13,13 +13,13 @@
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "",
+        "description" : "This is version 2",
         "contentType" : "application/json; charset=utf-8",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "xml",
-  "updateTime" : "2024-06-05T05:03:59.136Z",
+  "updateTime" : "2024-06-05T05:05:16.537Z",
   "objectRefs" : [ ]
 }
