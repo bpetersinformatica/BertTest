@@ -16,13 +16,13 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Version Bert",
+        "description" : "Version Bert Peters",
         "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-06-27T01:46:24.869Z",
+  "updateTime" : "2024-06-27T14:21:33.669Z",
   "objectRefs" : [ ]
 }
